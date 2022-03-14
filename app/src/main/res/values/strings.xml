@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Famous Quotes</string>
+    <string name="quote_1">Spread love everywhere you go. Let no one ever come to you without leaving happier. -Mother Teresa</string>
+    <string name="quote_2">When you reach the end of your rope, tie a knot in it and hang on. -Franklin D. Roosevelt</string>
+    <string name="quote_3">Always remember that you are absolutely unique. Just like everyone else. -Margaret Mead</string>
+    <string name="quote_4">Don\'t judge each day by the harvest you reap but by the seeds that you plant. -Robert Louis Stevenson</string>
+    <string name="quote_5">The future belongs to those who believe in the beauty of their dreams. -Eleanor Roosevelt</string>
+    <string name="quote_6">Tell me and I forget. Teach me and I remember. Involve me and I learn. -Benjamin Franklin</string>
+    <string name="quote_7">The best and most beautiful things in the world cannot be seen or even touched — they must be felt with the heart. -Helen Keller</string>
+    <string name="quote_8">It is during our darkest moments that we must focus to see the light. -Aristotle</string>
+    <string name="quote_9">Whoever is happy will make others happy too. -Anne Frank</string>
+    <string name="quote_10">Do not go where the path may lead, go instead where there is no path and leave a trail. -Ralph Waldo Emerson</string>
 </resources>
